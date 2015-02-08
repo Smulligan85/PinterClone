@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150205152616) do
+ActiveRecord::Schema.define(version: 20150208051506) do
 
 # Could not dump table "pins" because of following NoMethodError
 #   undefined method `[]' for nil:NilClass
