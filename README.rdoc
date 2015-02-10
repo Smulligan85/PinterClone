@@ -1,4 +1,4 @@
 == PINTEREST CLONE
 
 Made with Ruby on Rails
-Sean Mulligan, February 2015
+Created by Sean Mulligan, February 2015
